@@ -21,9 +21,9 @@ and fuel consumption by dynamically managing traffic signals based on real-time 
 
  # System Architecture  
 # The system works in the following steps: 
--Sensors and cameras collect real-time traffic data  
--Data is sent to the processing unit (IoT module)
--Machine Learning model analyzes traffic density
+-Sensors and cameras collect real-time traffic data    
+-Data is sent to the processing unit (IoT module)  
+-Machine Learning model analyzes traffic density  
 -Traffic signals are adjusted dynamically based on analysis
 
 # Features    
